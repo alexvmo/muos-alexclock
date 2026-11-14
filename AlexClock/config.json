@@ -1,7 +1,14 @@
 {
   "lang": "en",
-  "city_ru": "Москва, RU",
-  "city_en": "Moscow, RU",
-  "lat": 55.7558,
-  "lon": 37.6173
+  "city_ru": "",
+  "city_en": "",
+  "lat": null,
+  "lon": null,
+  "temp": null,
+  "wcode": null,
+  "wind": null,
+  "humidity": null,
+  "weather_text_ru": "",
+  "weather_text_en": "",
+  "last_error": ""
 }
