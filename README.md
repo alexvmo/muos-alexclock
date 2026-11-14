@@ -1,5 +1,7 @@
 # AlexClock for MustardOS (muOS)
 
+![AlexClock Screenshot](screenshot.png)
+
 **AlexClock** is a lightweight fullscreen clock, date, and weather application built specifically for handheld gaming consoles running **[MustardOS (muOS)](https://muos.dev/)** (tested on **2606.0 Andromeda**).
 
 Written in pure Python 3 using native `SDL2` and `SDL2_ttf` system libraries via `ctypes` — no external Python packages or compilation required.
