@@ -1,0 +1,14 @@
+{
+  "lang": "ru",
+  "city_ru": "Ивантеевка, RU",
+  "city_en": "Ivanteyevka, RU",
+  "lat": 55.9711,
+  "lon": 37.9178,
+  "temp": 2,
+  "wcode": null,
+  "wind": 5,
+  "humidity": 82,
+  "weather_text_ru": "Пасмурно",
+  "weather_text_en": "Overcast",
+  "last_error": ""
+}
