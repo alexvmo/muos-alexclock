@@ -1,0 +1,20 @@
+# Локальные сборки (GitHub соберет их сам)
+build/
+*.muxapp
+*.zip
+
+# Временные файлы и кэш Python / Lua / C (если используются)
+__pycache__/
+*.py[cod]
+*.o
+*.so
+
+# Системные файлы Windows и macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Настройки редакторов кода (VS Code, PyCharm и др.)
+.vscode/
+.idea/
+*.swp
