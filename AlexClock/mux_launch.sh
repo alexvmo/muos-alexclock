@@ -1,5 +1,5 @@
 #!/bin/sh
-# HELP: AlexClock - Часы, дата и погода
+# HELP: AlexClock - Часы, дата и погода для muOS
 # ICON: default
 # GRID: AlexClock
 
